@@ -1,0 +1,4 @@
+@import "tailwindcss/preflight";
+@tailwind utilities;
+/* @import 'rippleui/dist/ripple.css'; */
+@import 'rippleui/dist/css/styles.css';
